@@ -1,1 +1,1 @@
-# RNASeq_ChipSeq_Workflow
+# MICB 405 Scripts
