@@ -7,3 +7,4 @@ This folder contains scripts used for metagenomic analysis.
 - `bwa.sh` is used to generate index files for given MAG (using it's .ffn prokka output file) and then run bwa mem to align metatranscriptomic reads to the reference
 - `rpkm.sh` is used to generate transcriptomic rpkm values for a given MAG, for each of its prokka-predicted ORFs
 - `pathview.r` is used to call pathview with data containing rpkm values from prokka ORFs mapped to KO numbers from KAAS, allowing visualization of MAG transcriptomic activity for specific KEGG pathways
+- `plot_geochemical_gradients.r` is used to plot geochemical gradients
